@@ -1,0 +1,132 @@
+EXAMPLE 1
+{"orderID":null, 
+"currentUser":{"email": "pepe@email.com", "firstName": "Pepe", "lastName": "Sanz"},
+"phones":[    {
+        "name": "Galaxy Z Fold 2 5G",
+        "image": "https://i.blogs.es/f6f1e2/zfold2/original.jpeg",
+        "price": 529.0,
+        "ref": "6151e2f59c3da03947b9f0fd",
+        "des": "Quisque elit purus, accumsan at lectus quis, iaculis ultrices orci. Morbi vel neque vestibulum, vulputate dolor sollicitudin, ornare sem"
+    },
+    {
+        "name": "Samsung Galaxy S21 Ultra",
+        "image": "https://img.pccomponentes.com/articles/34/348324/1241-samsung-galaxy-s21-ultra-5g-256gb-negro-libre.",
+        "price": 909.99,
+        "ref": "6151e2f59c3da03947b9f0fe",
+        "des": "Nunc facilisis arcu sed ex mattis bibendum. Aenean eget ante ipsum"
+    },
+    {
+        "name": "Blackview A60 1GB/16GB Negro Dual SIM",
+        "image": "https://www.maxmovil.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/",
+        "price": 482.874,
+        "ref": "6151e2f59c3da03947b9f0ff",
+        "des": "Nunc magna ipsum, blandit vitae justo ultrices, bibendum laoreet dolor"
+    },
+    {
+        "name": "Motorola Moto G Power",
+        "image": "https://www.moviles.com/fotos/motorola-moto-g-power-2021-88912-g.jpg",
+        "price": 468.258,
+        "ref": "6151e2f59c3da03947b9f100",
+        "des": "Maecenas aliquet vulputate ante nec vestibulum. Phasellus varius ante et sodales dignissim. Sed gravida dui eget libero lacinia, quis imperdiet ipsum semper. Phasellus accumsan est dui"
+    },
+    {
+        "name": "iPhone 12 Pro",
+        "image": "https://img.pccomponentes.com/articles/32/328880/1943-apple-iphone-12-pro-max-128gb-azul-pacifico-li",
+        "price": 999.369,
+        "ref": "6151e2f59c3da03947b9f101",
+        "des": "Aenean porta nisi viverra elementum semper. Nulla viverra erat vel nisi euismod, vitae facilisis odio porta. Ut efficitur hendrerit eros, ut hendrerit sapien tincidunt vitae. Aliquam id molestie tortor"
+    },
+    {
+        "name": "ZTE Blade A31 Lite 1GB/32GB Azul Dual SIM",
+        "image": "https://www.maxmovil.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/",
+        "price": 508.3,
+        "ref": "6151e2f59c3da03947b9f102",
+        "des": "Lorem ipsum dolor sit amet"
+    },
+	    {
+        "name": "ZTE Blade A31 Lite 1GB/32GB Azul Dual SIM",
+        "image": "https://www.maxmovil.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/",
+        "price": 508.3,
+        "ref": "6151e2f59c3da03947b9f102",
+        "des": "Lorem ipsum dolor sit amet"
+    },
+    {
+        "name": "Nokia 150 Dual SIM negro",
+        "image": "https://med.greatecno.com/150135-large_default/nokia-150-2020-dual-sim-black-eu.jpg",
+        "price": 540.05,
+        "ref": "6151e2f59c3da03947b9f103",
+        "des": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…"
+    }],
+"price": 0.0,
+"status": null 
+}
+
+EXAMPLE 2
+{
+    "orderId": null,
+    "currentUser": {
+        "email": "pepe@email.com",
+        "firstName": "Pepe",
+        "lastName": "Sanz"
+    },
+    "phones": [
+        {
+            "name": "Galaxy Z Fold 2 5G",
+            "image": "https://i.blogs.es/f6f1e2/zfold2/original.jpeg",
+            "price": 529.0,
+            "ref": "6151e2f59c3da03947b9f0fd",
+            "des": "Quisque elit purus, accumsan at lectus quis, iaculis ultrices orci. Morbi vel neque vestibulum, vulputate dolor sollicitudin, ornare sem"
+        },
+        {
+            "name": "Samsung Galaxy S21 Ultra",
+            "image": "https://img.pccomponentes.com/articles/34/348324/1241-samsung-galaxy-s21-ultra-5g-256gb-negro-libre.",
+            "price": 909.99,
+            "ref": "6151e2f59c3da03947b9f0fe",
+            "des": "Nunc facilisis arcu sed ex mattis bibendum. Aenean eget ante ipsum"
+        },
+        {
+            "name": "Blackview A60 1GB/16GB Negro Dual SIM",
+            "image": "https://www.maxmovil.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/",
+            "price": 482.874,
+            "ref": "6151e2f59c3da03947b9f0ff",
+            "des": "Nunc magna ipsum, blandit vitae justo ultrices, bibendum laoreet dolor"
+        },
+        {
+            "name": "Motorola Moto G Power",
+            "image": "https://www.moviles.com/fotos/motorola-moto-g-power-2021-88912-g.jpg",
+            "price": 468.258,
+            "ref": "6151e2f59c3da03947b9f100",
+            "des": "Maecenas aliquet vulputate ante nec vestibulum. Phasellus varius ante et sodales dignissim. Sed gravida dui eget libero lacinia, quis imperdiet ipsum semper. Phasellus accumsan est dui"
+        },
+        {
+            "name": "iPhone 12 Pro",
+            "image": "https://img.pccomponentes.com/articles/32/328880/1943-apple-iphone-12-pro-max-128gb-azul-pacifico-li",
+            "price": 999.369,
+            "ref": "6151e2f59c3da03947b9f101",
+            "des": "Aenean porta nisi viverra elementum semper. Nulla viverra erat vel nisi euismod, vitae facilisis odio porta. Ut efficitur hendrerit eros, ut hendrerit sapien tincidunt vitae. Aliquam id molestie tortor"
+        },
+        {
+            "name": "ZTE Blade A31 Lite 1GB/32GB Azul Dual SIM",
+            "image": "https://www.maxmovil.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/",
+            "price": 508.3,
+            "ref": "6151e2f59c3da03947b9f102",
+            "des": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "ZTE Blade A31 Lite 1GB/32GB Azul Dual SIM",
+            "image": "https://www.maxmovil.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/",
+            "price": 508.3,
+            "ref": "6151e2f59c3da03947b9f102",
+            "des": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Nokia 150 Dual SIM negro",
+            "image": "https://med.greatecno.com/150135-large_default/nokia-150-2020-dual-sim-black-eu.jpg",
+            "price": 540.05,
+            "ref": "6151e2f59c3da03947b9f103",
+            "des": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…"
+        }
+    ],
+    "price": 4946.1410000000005,
+    "status": "VALIDATED"
+}

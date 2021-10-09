@@ -9,6 +9,7 @@ Whole project has been built on a local host in port 8080.
 It has been used a non-relational database (MongoDB) for the two exercises. MongoDB database is allocated to the default local host in port 27017.
 The order of the directories follows the next structure:
 
+![image](https://user-images.githubusercontent.com/29228203/136656935-0a6d6124-7331-40a6-8688-0f3749756bbf.png)
 
 
 
